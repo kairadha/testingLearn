@@ -14,3 +14,4 @@ class Test_case:
         # time.sleep(10)
         # driver.find_element(By.XPATH,"//span[contains(text(),'testing')]/b[contains(text()=' browser']").click()
         # time.sleep(5)
+        print("fine")
